@@ -181,18 +181,19 @@ header {
   float: left;
   height: 100%;
   position: fixed;
-  background-color: rgba(12,12,12,0.9);
+  background-color: rgba(12,12,12,0.3);
   z-index: 10;
 }
 
 .sidebar-navigation .logo {
   position: absolute;
-  width: 100%;
+  width: 140px;
   height: 140px;
-  line-height: 100px;
-  background-color: #45489a;
+  /*line-height: 100px;*/
+  background-color: #eb5a1e;
   padding: 20px;
   text-align: center;
+  border-radius: 50%;
 }
 
 .sidebar-navigation .logo a {
@@ -206,6 +207,7 @@ header {
   width: 100%;
   display: inline-block;
   border: 1px solid rgba(250,250,250,0.5);
+  border-radius: 50%;
 }
 
 .sidebar-navigation .logo em {
