@@ -8,7 +8,10 @@ https://templatemo.com/tm-518-sentra
 
 body {
   font-family: 'Open Sans', sans-serif;
-background: #FEFDC4;
+
+  background-image: url("../img/back.jpg");
+  background-repeat: repeat;
+
 
 }
 
@@ -236,7 +239,7 @@ header {
 
 .sidebar-navigation nav {
   position: relative;
-  top: 60%;
+  top: 65%;
   left: 60%;
   -webkit-transform: translateX(-60%) translateY(-60%);
   -moz-transform: translateX(-60%) translateY(-60%);
