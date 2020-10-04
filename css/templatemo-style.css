@@ -213,12 +213,22 @@ header {
   border-radius: 50%;
 
 }
+.sidebar-navigation .logo a img{
+  
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+
+}
+
+
 
 .sidebar-navigation .logo em {
   font-style: normal;
   font-weight: 300;
 }
 .logo-text{
+  margin-top: 10px;
   font-size: 20px;
     color: #fff;
     font-weight: 700;
