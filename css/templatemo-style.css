@@ -8,8 +8,8 @@ https://templatemo.com/tm-518-sentra
 
 body {
   font-family: 'Open Sans', sans-serif;
-background: rgb(247,240,94);
-background: linear-gradient(90deg, rgba(247,240,94,1) 14%, rgba(238,135,24,1) 40%, rgba(238,135,24,1) 64%, rgba(247,240,94,0.9192051820728291) 94%);
+background: #f7f05e;
+
 }
 
 p {
@@ -432,6 +432,7 @@ header {
   background-position: center center;
   background-size: cover;
   display: block;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .Modern-Slider .item-1 .image {
@@ -592,6 +593,7 @@ header {
   background-color: #fff;
   position: relative;
   z-index: 10;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #featured .item .text-content h4 {
