@@ -58,7 +58,7 @@ p {
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #45489a;
+  color: #eb5a1e;
 }
 
 .section-heading p {
@@ -95,7 +95,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #eb5a1e;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -572,7 +572,7 @@ header {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: rgba(69,72,154, 0.9);
+  background-color: #eb5a1e;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -764,7 +764,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid #eb5a1e;
 }
 
 #blog .tabs li {
@@ -799,7 +799,7 @@ header {
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: #eb5a1e;
   color: #fff;
 }
 
@@ -918,7 +918,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #eb5a1e;
   display: inline-block;
   height: 44px;
   line-height: 24px;
